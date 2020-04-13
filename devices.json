@@ -1,0 +1,34 @@
+{
+    "ios": [
+        {
+            "host": "ios-xe-mgmt-latest.cisco.com",
+            "username": "developer",
+            "password": "C1sco12345",
+            "port": 8181,
+            "device_type": "cisco_ios"
+        },
+        {
+            "host": "ios-xe-mgmt.cisco.com",
+            "username": "developer",
+            "password": "C1sco12345",
+            "port": 8181,
+            "device_type": "cisco_ios"
+        }
+    ],
+    "wlc": [
+        {
+            "host": "10.10.30.31",
+            "username": "admin",
+            "password": "A123m!",
+            "device_type": "cisco_wlc"
+        }
+    ],
+    "asa": [
+        {
+            "host": "10.1.10.27",
+            "username": "admin",
+            "password": "cisco",
+            "device_type": "cisco_asa"
+        }
+    ]
+}
